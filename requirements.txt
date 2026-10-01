@@ -1,0 +1,3 @@
+pipecat-ai[websocket,sarvam]
+python-dotenv
+loguru
